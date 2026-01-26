@@ -73,7 +73,7 @@ I am a Full-Stack Web Developer and AI Specialist with expertise in designing, d
 
 ## Connect with Me  
 
-- **LinkedIn**: [linkedin.com/in/fatima-muhammad-hanif](https://www.linkedin.com/in/fatima-muhammad-hanif/)  
+- **LinkedIn**: [linkedin.com/in/fatima-muhammad-hanif](https://www.linkedin.com/in/webdeveloperfatimamuhammadhanif/)  
 - **Kaggle**: [kaggle.com/fatimamuhammadhaneef](https://www.kaggle.com/fatimamuhammadhaneef)  
 - **GitHub**: [github.com/Fatima-Haneef](https://github.com/Fatima-Haneef)  
 - **Email**: [FatimaMuhammadHanif@outlook.com](mailto:FatimaMuhammadHanif@outlook.com)  
