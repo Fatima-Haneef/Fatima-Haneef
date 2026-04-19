@@ -79,7 +79,8 @@ I am a Full-Stack Web Developer and AI Specialist with expertise in designing, d
 - **Email**: [FatimaMuhammadHanif@outlook.com](mailto:FatimaMuhammadHanif@outlook.com)  
 - **YouTube — WebAndAIStudio**: [youtube.com/@WebAndAIStudio](https://www.youtube.com/@WebAndAIStudio)   
 - **Instagram**: [instagram.com/fatima_muhammad_hanif](https://www.instagram.com/fatima_muhammad_hanif/)  
-- **Facebook**: [facebook.com/profile.php?id=61568238074520](https://www.facebook.com/profile.php?id=61568238074520)  
+- **Facebook**: [facebook.com/profile.php?id=61568238074520](https://www.facebook.com/profile.php?id=61568238074520)
+- **Medium**:  [https://fatimamuhammadhanif.medium.com/](https://fatimamuhammadhanif.medium.com/)
 
 ---
 
